@@ -18,3 +18,6 @@ Example output (results/fastq_stats.tsv):
 
 ## gc.py
 gc.py reports the length, GC % and reverse complement of a DNA sequence given on the command line
+
+## fasta_stats.py
+fasta_stats.py reports the length and GC % of every sequence in a FASTA file
