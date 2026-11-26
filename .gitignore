@@ -3,3 +3,4 @@ data/
 *.fastq.gz
 *.bam
 *.tsv
+read_stats.csv
